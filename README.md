@@ -8,7 +8,6 @@ This is a React-based application that fetches and displays a list of popular mo
 - Responsive movie grid layout.
 - Vite for fast development and optimized builds.
 
----
 
 ## 🛠️ Technologies Used
 - **React** (with hooks)
@@ -16,7 +15,6 @@ This is a React-based application that fetches and displays a list of popular mo
 - **TMDB API** (to fetch movie data)
 - **CSS/SCSS** (for styling)
 
----
 
 ## 📦 Installation and Setup
 
@@ -63,7 +61,7 @@ Then, you can serve the production build using:
 npm run preview
 ```
 
----
+
 
 ## 🛠️ Project Structure
 
@@ -95,4 +93,3 @@ movie-list-app/
 Feel free to fork the project and submit a pull request if you have any improvements!
 
 ---
-
